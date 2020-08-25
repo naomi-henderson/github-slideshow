@@ -1,1 +1,6 @@
-Hello, this is a new markdown file in _posts
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
